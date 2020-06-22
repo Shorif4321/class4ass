@@ -1,0 +1,157 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+    max-width: 100%;
+    margin-top: 20px;
+ }
+ .wrapper{
+    width: 960px;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background: #7F56F5;
+    padding: 15px;
+}
+ .logo{
+    width: 20%;
+    float: left;
+}
+ .logo img{
+}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    color: white;
+    padding: 12px 17px;
+}
+nav ul li a:hover{
+     color: #da70d6cc;
+ }
+.heading{
+	text-align: center;
+    padding: 100px 0;
+}
+.heading h1{
+    font-size: 40px;
+    margin-top: 50px;
+    color: #fffffff5;
+}
+.heading p{
+    color: #f7f4fec2;
+    font-size: 15px;
+}
+.about-section{
+    padding: 20px 0;
+}
+.column{
+    width: 50%;
+    float: left;
+}
+.feature{
+    padding: 40px;
+}
+.feature img{}
+.feature h2{
+    font-size: 30px;
+    color: #000000eb;
+}
+.feature p{
+    font-size: 17px;
+    color: #000000d4;
+}
+.about2-section{
+
+}
+.column2{
+	width: 50%;
+    float: left;
+}
+.feature2{
+	padding: 40px;
+}
+.feature2 img{}
+.feature2 h2{
+	font-size: 30px;
+    color: #000000eb;
+}
+.feature2 p{
+	font-size: 17px;
+    color: #000000d4;
+}
+.Getintouch{}
+.Getintouch a{
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    background: #7548f9eb;
+    width: 104px;
+    border-radius: 7px;
+    padding: 13px;
+    float: left;
+    margin-top: 20px;
+    color: white;
+}
+.Getintouch a:hover{
+    color:gray;
+}
+.footer-section{
+    background: #F5F5FA;
+}
+.col{
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+    padding-top: 70px;
+    padding-bottom: 11px;
+}
+.fetur{padding: 0px;margin-left: 38px;}
+.logo2{
+    margin-bottom: 0px;
+}
+.logomenu{}
+.logomenu p{
+    font-size: 18px;
+    color: #000000cf;
+    line-height: 30px;
+}
+
+.logoheading{}
+.logoheading h2{
+    font-size: 18px;
+    color: #000000de;
+    padding: 0px 29px;
+}
+.logoabout{}
+.logoabout ul{
+	margin: 0;
+    padding: 0;
+}
+.logoabout ul li{
+	list-style-type: none;
+}
+.logoabout ul li a{
+	text-decoration: none;
+	display: block;
+	font-size: 17px;
+	padding: 15px 30px;
+	color: #000000d6;
+	text-align: left;
+}
+.photo{}
